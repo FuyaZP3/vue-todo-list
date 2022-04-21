@@ -1,7 +1,11 @@
 ## ToDo-List
-Nuxt.js, Vuex ve Vuetify UI Framework kullanarak hazırladığım ToDo-List uygulamasının demo videosunu aşağıdan izleyebilirsiniz.
+Nuxt.js, Vuex ve Vuetify UI Framework kullanarak hazırladığım ToDo-List uygulamasının demo videosunu aşağıdan izleyebilirsiniz..
 <hr />
-https://user-images.githubusercontent.com/48054925/164548382-a92cd838-518f-4126-99cd-347a9183d6e0.mp4
+
+
+https://user-images.githubusercontent.com/48054925/164549768-e01e22be-1b24-4937-af21-6937608494ad.mp4
+
+
 
 <hr />
 
