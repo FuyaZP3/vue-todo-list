@@ -1,0 +1,13 @@
+@mixin sub-text {
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+$topBarDarkBlue: #0a1425;
+$topBarLightBlue: #3bb141;
+
+@mixin bg-gradient {
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, $topBarDarkBlue));
+background: -moz-gradient(linear, left top, left bottom, color-stop(0%, $topBarDarkBlue));
+background: -ms-gradient(linear, left top, left bottom, color-stop(0%, $topBarDarkBlue));
+}
